@@ -1,0 +1,18 @@
+#show-cal.sh
+In this it just displays the current calendar.
+
+#show-cal2.sh
+In this it will take month,date,year as input and it displays that calendar.
+
+#copy3.sh
+In this first it will take file1 as input(means which file you want to copy) and it will take file2 as input(where to copy) and it copies from file1 to file2.
+
+#remove4.sh
+In this it will take file as input and it removes that file.
+
+#chmod5.sh
+In this it will change the permission of the file to be executable by the owner.
+
+#move6.sh
+file1:which file you want to move
+file2:destination
